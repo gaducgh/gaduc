@@ -10,32 +10,32 @@
  ----------------------------------------------------------------------------------------------------
  
  
- ### How to 
+ ### How to make a new file:-
  
  > touch file.txt
 
- to make a new file.
+ to make a new file.-----------
  
  
- ### How to
+ ### How to write and modify in the file:-
  
  > nano file.txt 
  
- to write and modify the file.
+ to write and modify the file.--------------
  
  
- ### How to
+ ### How to show the status:-
  
  > git status
  
 to show the working tree status.
 
  
- ### How to be have 
+ ### How to show commit logs:-
  
  > git log
  
- to show commit logs. 
+ to show the current and previous commit logs.
  
 
  ### How to shortcut the process of creating a message while creating the file in one line:-
@@ -163,6 +163,28 @@ to show the working tree status.
 
 - Fast Forward Mergw.
 - Three Way Merge.
+
+## Fast Forward Merge:
+
+is a direct linear path from the source branch to the target branch pointer without creating an extra merge commit.
+
+
+## Three Way Merge:
+
+is based on three different commits:
+1. On the master branch, the last commit before we diverge the file into different branches.
+2. the last commit performed on the master branch.
+3. the last commit performed on the feature branch.
+
+
+
+
+
+
+
+
+
+
  
  
 
