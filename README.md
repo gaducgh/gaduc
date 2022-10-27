@@ -90,7 +90,6 @@ to show the working tree status.
  ***
  # Tags
  
- ***
   ---------------------------------------------------------------------------------------------------
  | touch | nano | git status | git log | git init | git add | git commit | git restore | git died |
  ----------------------------------------------------------------------------------------------------
@@ -101,9 +100,9 @@ to show the working tree status.
  ***
  # Branches
  
-  ---------------------------------------------------------------------------------------------------
- | touch | nano | git status | git log | git init | git add | git commit | git restore | git died |
- ----------------------------------------------------------------------------------------------------
+  _____
+ | git branch | git branch | git checkout |
+ _____
  
  
  ### How to 
