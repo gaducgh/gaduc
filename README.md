@@ -38,19 +38,27 @@ to show the working tree status.
  
  to add the file content to the index preparing the content staged for the next commit.
  
- ### git commit -m "mssg"
+ ### How to commit the changes?
+ 
+ > git commit -m "mssg"
  
  to record the changes to the repository
  
- ### git commit --amend -m "mssg"
+ ### How to change the last commit?
+ 
+ > git commit --amend -m "mssg"
  
  to replace the message of the current branch by creating a new commit.
  
- ### git restore file.txt
+ ### HOw to restore:-
+ 
+ > git restore file.txt
  
  to restore the previous commit.
  
- ### git diff
+ ### How to see the differences betwtween the versions:- 
+ 
+ > git diff
  
  show the differences between the last modified and the last commits.
  
@@ -58,8 +66,7 @@ to show the working tree status.
  ***
  # Tags
  
- > git tag
- > tag
+ >
  
  ***
  # Branches
