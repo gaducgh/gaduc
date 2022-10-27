@@ -100,9 +100,9 @@ to show the working tree status.
  ***
  # Branches
  
-  _____
- | git branch | git branch | git checkout |
- _____
+  --------------------------------------------
+ | git branch | git checkout |
+ --------------------------------------------
  
  
  ### How to 
