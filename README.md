@@ -136,27 +136,33 @@ to show the working tree status.
  to move from a branch to.
  
  
- ### How to
+ ### How to create a new branch and move to that branch:-
  
  > git checkout -b brandName
  
- to create a new branch and move from a branch to that branch.
+ to create a new branch and move fr
  
  
- ### How to
+ ### How to show all the branches:-
  
  > git branch
  
  to show all the branshs.
  
  
- ### How to
+ ### How to delete a branch:-
  
  > git branch -d branchName
  
  to delete a branch.
  
+***
+# Merge:-
 
+**there is two types of merging:**
+
+- Fast Forward Mergw.
+- Three Way Merge.
  
  
 
