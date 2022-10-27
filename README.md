@@ -14,28 +14,28 @@
  
  > touch file.txt
 
- to make a new file.-----------
+ 
  
  
  ### How to write and modify in the file:-
  
  > nano file.txt 
  
- to write and modify the file.--------------
+ 
  
  
  ### How to show the status:-
  
  > git status
  
-to show the working tree status.
+
 
  
  ### How to show commit logs:-
  
  > git log
  
- to show the current and previous commit logs.
+ 
  
 
  ### How to shortcut the process of creating a message while creating the file in one line:-
@@ -122,39 +122,36 @@ to show the working tree status.
  --------------------------------------------
  
  
- ### How to 
+ ### How to create a new  branch:-
  
  > git branch branchName 
  
- to create a new branch.
  
  
- ### How to
+ ### How to move from a branch to another branch:-
  
  > git checkout branchName
  
- to move from a branch to.
  
  
  ### How to create a new branch and move to that branch:-
  
  > git checkout -b brandName
- 
- to create a new branch and move fr
+ to shortcut the process of create the command of creating a new branch and then use the command that moving to the new branch.
  
  
  ### How to show all the branches:-
  
  > git branch
  
- to show all the branshs.
+ to show the list of all the branches in the project.
  
  
  ### How to delete a branch:-
  
  > git branch -d branchName
  
- to delete a branch.
+ to delete a branch from the project.
  
 ***
 # Merge:-
