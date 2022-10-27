@@ -10,51 +10,75 @@
  ----------------------------------------------------------------------------------------------------
  
  
- ### touch file.txt
+ ### How to 
+ 
+ > touch file.txt
 
  to make a new file.
  
- ### nano file.txt 
+ 
+ ### How to
+ 
+ > nano file.txt 
  
  to write and modify the file.
  
- ### git status
+ 
+ ### How to
+ 
+ > git status
  
 to show the working tree status.
+
  
- ### git log
+ ### How to be have 
+ 
+ > git log
  
  to show commit logs. 
+ 
 
- ### echo 'mssg' > file.txt
+ ### How to shortcut the process of creating a message while creating the file in one line:-
+ 
+ > echo 'mssg' > file.txt
  
  create the file with a massage.
  
- ### git init
-
- to create an empty git repository or reinitiolize an exciting one
  
- ### git add file.txt
+ ### How to preparing the repository:-
+ 
+ > git init
+
+ to create an empty git repository or reinitiolize an exciting one.
+ 
+ 
+ ### How to preparing the new changes to be commit:-
+ 
+ > git add file.txt
  
  to add the file content to the index preparing the content staged for the next commit.
  
- ### How to commit the changes?
+ 
+ ### How to commit the changes:-
  
  > git commit -m "mssg"
  
- to record the changes to the repository
+ to record the changes to the repository.
  
- ### How to change the last commit?
+ 
+ ### How to change the last commit:-
  
  > git commit --amend -m "mssg"
  
  to replace the message of the current branch by creating a new commit.
+ 
  
  ### HOw to restore:-
  
  > git restore file.txt
  
  to restore the previous commit.
+ 
  
  ### How to see the differences betwtween the versions:- 
  
@@ -71,25 +95,39 @@ to show the working tree status.
  ***
  # Branches
  
- ### git branch branchName 
+ ### How to 
  
- to create a new branch
+ > git branch branchName 
  
- ### git checkout branchName
+ to create a new branch.
  
- to move from a branch to;
  
- ### git checkout -b brandName
+ ### How to
  
- to create a new branch and move from a branch to that branch
+ > git checkout branchName
  
- ### git branch
+ to move from a branch to.
  
- to show all the branshs
  
- ### git branch -d branchName
+ ### How to
  
- to delete a branch 
+ > git checkout -b brandName
+ 
+ to create a new branch and move from a branch to that branch.
+ 
+ 
+ ### How to
+ 
+ > git branch
+ 
+ to show all the branshs.
+ 
+ 
+ ### How to
+ 
+ > git branch -d branchName
+ 
+ to delete a branch.
  
 
  
