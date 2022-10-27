@@ -6,7 +6,7 @@
  # Basic Git Commands:
  
  ---------------------------------
- | touch  | nano. | git status |
+ | touch | nano | git status | git log | git init | git add | git commit | git restore | git died |
  ---------------------------------
  
  
