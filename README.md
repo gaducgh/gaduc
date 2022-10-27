@@ -94,8 +94,25 @@ to show the working tree status.
  | touch | nano | git status | git log | git init | git add | git commit | git restore | git died |
  ----------------------------------------------------------------------------------------------------
  
+ ### How to creating a new tag:-
  
- >
+ > git tag tagName
+ 
+ 
+ ### How to show the content of the tag:-
+ 
+ > git show tagName
+ 
+ 
+ ### How to delete the tag:-
+ 
+ > git tag -d tagName
+ 
+ 
+ ### How to show a list of all tags:-
+ 
+ > git tag
+ 
  
  ***
  # Branches
