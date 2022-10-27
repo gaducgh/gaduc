@@ -3,26 +3,32 @@
 
 ***
 
- # Git 101 commands:
+ # Basic Git Commands:
+ 
+ ---------------------------------
+ | touch  | nano. | git status |
+ ---------------------------------
  
  
  ### touch file.txt
 
- to make a new file
+ to make a new file.
  
  ### nano file.txt 
  
- to write and modify the file
+ to write and modify the file.
  
  ### git status
  
- 
+to show the working tree status.
  
  ### git log
+ 
+ to show commit logs. 
 
  ### echo 'mssg' > file.txt
  
- create the file with a massage
+ create the file with a massage.
  
  ### git init
 
@@ -69,9 +75,11 @@
  
  to show all the branshs
  
- ### git checkout -d branchName
- 
  ### git branch -d branchName
+ 
+ to delete a branch 
+ 
+
  
  
 
