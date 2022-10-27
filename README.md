@@ -137,6 +137,7 @@
  ### How to create a new branch and move to that branch:-
  
  > git checkout -b brandName
+
  to shortcut the process of create the command of creating a new branch and then use the command that moving to the new branch.
  
  
