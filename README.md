@@ -15,24 +15,41 @@
  to write and modify the file
  
  ### git status
+ 
+ 
+ 
+ ### git log
 
  ### echo 'mssg' > file.txt
  
  create the file with a massage
  
  ### git init
+
+ to create an empty git repository or reinitiolize an exciting one
  
- to create 
  ### git add file.txt
  
+ to add the file content to the index preparing the content staged for the next commit.
  
  ### git commit -m "mssg"
+ 
+ to record the changes to the repository
+ 
  ### git commit --amend -m "mssg"
+ 
+ to replace the message of the current branch by creating a new commit.
+ 
  ### git restore file.txt
+ 
+ to restore the previous commit.
  
  ### git diff
  
- show the differences between the last modified and the last commits
+ show the differences between the last modified and the last commits.
+ 
+ 
+ ***
  
  ## Git 102
  
