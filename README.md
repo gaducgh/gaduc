@@ -5,9 +5,9 @@
 
  # Basic Git Commands:
  
- ---------------------------------
+ ---------------------------------------------------------------------------------------------------
  | touch | nano | git status | git log | git init | git add | git commit | git restore | git died |
- ---------------------------------
+ ----------------------------------------------------------------------------------------------------
  
  
  ### touch file.txt
@@ -56,8 +56,13 @@ to show the working tree status.
  
  
  ***
+ # Tags
  
- ## Git 102
+ > git tag
+ > tag
+ 
+ ***
+ # Branches
  
  ### git branch branchName 
  
