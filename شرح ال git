@@ -1,1 +1,21 @@
 
+* Git
+
+في البداية سنقوم بشرح أهم الأوامر في الـ git
+
+> git init
+
+الآن سنتعرف على 
+> touch file.txt
+
+> git commit -m "mssg"
+
+> git restore file.txt
+
+> git diff
+
+> git commit --amend -m "mssg"
+
+> git log
+
+> git log --online
