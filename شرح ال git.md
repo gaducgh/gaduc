@@ -60,11 +60,14 @@
 #### إنشاء الـbranch:
 
 > git branch **branchName**
-> 
+
 #### الانتقال إلى الـ branch:
 
 > git checkout **branchName**
-> 
+
+كما يمكننا إنشاء branch جديدة والانتقال إليها في نفس السطر كالتالي:
+
+>git checkout -b **branchName**
 #### عرض كل الـ branches في المشروع:
 
 #### حذف الـ branch:
