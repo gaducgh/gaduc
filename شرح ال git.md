@@ -83,8 +83,8 @@
 والآن سنتعرف على  كيفية دمج التغييرات أو الـ features الفرعية التي قمنا بإجرائها واختبارها، ومن ثم إضافتها إلى ملف العمل الأساسي.
 ولنقوم بالدمج في الـ git، تنقسم طرق الدمج إلى نوعين:
 
-*طريقة fast forward merge.
-*طريقة three way merge.
+* fast forward merge.
+* three way merge.
 
 ##### طريقة Fast Forward Merge:
 
